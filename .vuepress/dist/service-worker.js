@@ -21,30 +21,30 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2fb0c468a1d6c97f6a5f17cb190321b7"
+    "revision": "1f7d11b86741abdbb7802e732c036fbc"
   },
   {
     "url": "about/aboutus.html",
-    "revision": "3ec29c5a0edd4924b34853688f52816b"
+    "revision": "c0b0cf9be97fa764b5c788d1080e1aa4"
   },
   {
     "url": "artandcraft/art1.html",
-    "revision": "84aed530df9bf780da733c7ca32624cc"
+    "revision": "74e4c3b00d811b3d8f4bfbff7c3a7676"
   },
   {
     "url": "artandcraft/craft1.html",
-    "revision": "e58f6ab76ddd7e0e897b5cfa606fc79e"
+    "revision": "09e4b995886fd0988cf8c299194e39fd"
   },
   {
     "url": "artandcraft/index.html",
-    "revision": "d6234e32d065d6c1d55599aa987f3689"
+    "revision": "0ff135c66dcacc05d52ce6184d1367ba"
   },
   {
     "url": "assets/css/1.styles.09d91af9.css",
     "revision": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "url": "assets/css/styles.c9ffe432.css",
+    "url": "assets/css/styles.61a11bf2.css",
     "revision": "c73a30ac908a012fb1bb9c912df9fc41"
   },
   {
@@ -104,32 +104,32 @@ self.__precacheManifest = [
     "revision": "d2e91c287f01e1733a9a63b722b3643b"
   },
   {
-    "url": "assets/js/app.c9ffe432.js",
-    "revision": "192e80f64c2553343b712ae21a547d28"
+    "url": "assets/js/app.61a11bf2.js",
+    "revision": "bc167baf7affdd068adbdbc4d8e42757"
   },
   {
     "url": "cooking/cook1.html",
-    "revision": "56ad7f4fed3b813ff46a02c24b4cd778"
+    "revision": "5de74418ae794b718dff53b5ac04e74d"
   },
   {
     "url": "cooking/cook2.html",
-    "revision": "d8dd1c669c3be26454193095afe926bc"
+    "revision": "a2779d159c298977dfd2e8710e2d9859"
   },
   {
     "url": "cooking/cook3.html",
-    "revision": "2d005a0afc28435003ebbc9bc4f59d41"
+    "revision": "6ce0fda5d354653146af5f6c5140090f"
   },
   {
     "url": "cooking/index.html",
-    "revision": "5dab991d895109e43437a837a800ce39"
+    "revision": "033c528294803e2cd53d9d112571fdde"
   },
   {
     "url": "garden/index.html",
-    "revision": "2da78b4782fa658a2c10c624247621fc"
+    "revision": "665af4d757f020e1a6a2aa6a0a13eb3e"
   },
   {
     "url": "health/index.html",
-    "revision": "ff93a7971949dd56ddb987309088a1c1"
+    "revision": "d858447730a326f1aaaf999630ee4f90"
   },
   {
     "url": "icons/apple-touch-icon.png",
@@ -137,11 +137,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a4c97b42f87d5d1cfe628e6c686bad36"
+    "revision": "307e09dea6f584904d2c98a39b58a03f"
   },
   {
     "url": "kids/index.html",
-    "revision": "ca39bdb3df39d5664f94916c1ff1e950"
+    "revision": "8d8fa8943d57b46fa422ea584ab8557f"
   },
   {
     "url": "riyavinveedu-banner.png",
